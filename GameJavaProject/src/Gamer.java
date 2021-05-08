@@ -12,7 +12,7 @@ public class Gamer {
         this.firstName = firstName;
         this.lastName = lastName;
         this.dateOfBirh = dateOfBirh;
-        this.nationalityId = nationalityId;
+        this.nationalityId = nationalityId ;
     }
 
 	public int getId() {
